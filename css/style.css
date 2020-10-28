@@ -78,14 +78,20 @@ ul{
   background-color: white;
   text-align: center;
 }
-.white_box h3{
+.white_box_text h3{
   color: #031C4E;
   font-size: 30px;
   font-weight: 700;
 }
 
-.white_box h3:last-child{
+.white_box_text h3:last-child{
   color: #006AFF;
+}
+
+.login_input{
+  width: 80%;
+  height: 40px;
+  margin: 10px auto;
 }
 
 
