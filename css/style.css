@@ -2,6 +2,17 @@
   position: relative;
 }
 
+.my_btn{
+  background-color: white;
+  color: #006AFF;
+}
+
+.my_btn:hover{
+  background-color: color: #006AFF;
+  color: white;
+}
+
+
 .burger_icon{
   display: none;
 }
