@@ -5,7 +5,7 @@
 
 
 .header_top {
-  height: 80px;
+  height: 70px;
   padding: 10px 10px;
   line-height: 60px;
 }
@@ -26,7 +26,7 @@
   top: 0;
   right: 0;
   color: #2586FD;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 
@@ -55,9 +55,7 @@
 /* // Large devices (desktops, 992px and up) */
 @media screen and (min-width: 992px) {
 
-  .header_top{
-    height: 100px;
-  }
+
 
   #logo {
     height: 40%;
