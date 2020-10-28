@@ -1,3 +1,15 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-size: 40px;
+  color: white;
+  font-weight: 700;
+}
+
+
+
 .position_relative{
   position: relative;
 }
@@ -27,6 +39,10 @@ ul{
   margin-right: 10px;
 }
 
+.list_item a{
+  color: #727E98;
+}
+
 
 
 .header_top {
@@ -43,7 +59,10 @@ ul{
 
 .header_bottom {
   height: 100vh;
-  background-color: #004AFF;
+  background-image: url('https://www.digitalocean.com/static/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg');
+  padding-top: 80px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 
