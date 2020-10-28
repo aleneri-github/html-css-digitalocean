@@ -1,0 +1,70 @@
+.position_relative{
+  position: relative;
+}
+
+
+
+.header_top {
+  height: 80px;
+  padding: 10px 10px;
+  line-height: 60px;
+}
+
+#logo {
+  height: 80%;
+  width: 80%;
+  line-height: 60px;
+}
+
+.header_bottom {
+  height: 100vh;
+  background-color: #004AFF;
+}
+
+.burger_icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #2586FD;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* NOTE:MEDIA QUERY  */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media screen and  (min-width: 576px) {
+
+
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) { ... }
+
+/* // Large devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+  .header_top{
+    height: 100px;
+  }
+
+  #logo {
+    height: 40%;
+    width: 40%;
+    padding-left: 0;
+
+   }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) { ... }
