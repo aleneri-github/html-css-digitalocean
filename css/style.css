@@ -2,17 +2,27 @@
   position: relative;
 }
 
+ul{
+  display: inline-block;
+}
+
+.list_item li{
+  display: inline-block;
+  list-style: none;
+  margin-right: 10px;
+}
+
 
 
 .header_top {
   height: 70px;
-  padding: 10px 10px;
+  padding: 0px 10px;
   line-height: 60px;
 }
 
 #logo {
-  height: 80%;
-  width: 80%;
+  height: 100%;
+  width: 100%;
   line-height: 60px;
 }
 
