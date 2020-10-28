@@ -71,10 +71,21 @@ ul{
 
 .white_box{
   margin: auto;
+  padding-top: 30px;
   width: 100%;
   height: 300px;
   border-radius: 5px;
   background-color: white;
+  text-align: center;
+}
+.white_box h3{
+  color: #031C4E;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.white_box h3:last-child{
+  color: #006AFF;
 }
 
 
