@@ -130,13 +130,17 @@ ul{
   height: 1000px;
   background-color: #F3F5F9;
   padding-top: 20px;
+  text-align: center;
+  color: #6F7B97;
 }
 
 .img_logo{
-  background-color: red;
+  background-color: #F3F5F9;
   border: 1px solid black;
   height: 200px;
 }
+
+
 
 
 
