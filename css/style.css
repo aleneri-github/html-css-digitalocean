@@ -126,6 +126,25 @@ ul{
   max-height: 100%
 }
 
+.section_loghi{
+  height: 1000px;
+  background-color: #F3F5F9;
+  padding-top: 20px;
+}
+
+.img_logo{
+  background-color: red;
+  border: 1px solid black;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
 
 
 
