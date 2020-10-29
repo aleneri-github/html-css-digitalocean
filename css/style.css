@@ -117,6 +117,14 @@ ul{
   box-shadow: 2px 2px lightgrey;
 }
 
+.sign_up img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%
+}
+
 
 
 
