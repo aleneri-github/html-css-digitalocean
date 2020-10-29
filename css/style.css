@@ -56,11 +56,12 @@ ul{
 }
 
 .header_bottom {
-  height: 1000px;
+  height: 100%;
   background-image: url('https://www.digitalocean.com/static/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg');
   padding-top: 80px;
   padding-left: 10px;
   padding-right: 10px;
+  padding-bottom: 20px;
 }
 
 .header_bottom p{
@@ -72,8 +73,9 @@ ul{
 .white_box{
   margin: auto;
   padding-top: 30px;
+  padding-bottom: 20px;
   width: 100%;
-  height: 500px;
+  height: 100%;
   border-radius: 5px;
   background-color: white;
   text-align: center;
@@ -107,6 +109,7 @@ ul{
 
 .sign_up{
   position: relative;
+  margin: 10px 0;
   line-height: 40px;
   display: inline-block;
   width: 80%;
