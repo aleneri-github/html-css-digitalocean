@@ -94,6 +94,17 @@ ul{
   margin: 10px auto;
 }
 
+.btn_account{
+  line-height: 40px;
+  display: inline-block;
+  width: 80%;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #579AFF;
+  color: white;
+  vertical-align: middle;
+}
+
 
 
 
