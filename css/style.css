@@ -22,7 +22,6 @@ h1{
   color: white;
 }
 
-
 .burger_icon{
   display: none;
 }
@@ -40,8 +39,6 @@ ul{
 .list_item a{
   color: #727E98;
 }
-
-
 
 .header_top {
   height: 70px;
