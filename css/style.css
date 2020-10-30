@@ -182,9 +182,30 @@ ul{
 
 .debug{
   height: 300px;
-
-  background-color: green;
   border: 1px solid black;
+}
+
+.list_deploy{
+  border-left: 1px solid #75809A;
+  list-style: none;
+  text-align: left;
+}
+
+.list_deploy li{
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.list_deploy li:first-child{
+  padding-top: 15px;
+}
+.list_deploy li a{
+  color: #75809A;
+}
+
+
+.deploy_and_scale img{
+  display: block;
 }
 
 
