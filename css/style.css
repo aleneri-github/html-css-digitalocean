@@ -228,7 +228,18 @@ ul{
 .designed_for_developers{
   height: 1000px;
   text-align: center;
+  padding-top: 40px;
   background-color: #F3F5F9;
+}
+
+.img_container{
+  width: 100%;
+
+}
+
+#big-img{
+  max-width: 70%;
+
 }
 
 
