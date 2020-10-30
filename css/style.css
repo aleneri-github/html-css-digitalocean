@@ -159,10 +159,11 @@ ul{
 }
 
 .deploy_and_scale{
-  height: 1000px;
+  height: 100%;
   padding-top: 40px;
   padding-left: 60px;
   padding-right: 60px;
+  padding-bottom: 40px;
   background-color: #FFFFFF;
   text-align: center;
 }
@@ -189,12 +190,12 @@ ul{
 }
 
 .list_deploy li{
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   font-size: 18px;
   font-weight: 700;
 }
 .list_deploy li:first-child{
-  padding-top: 15px;
+  padding-top: 5px;
 }
 .list_deploy li a{
   color: #75809A;
@@ -210,7 +211,7 @@ ul{
   text-align: left;
 }
 
-.deploy_and_scale p{
+.deploy_and_scale .section p{
   font-size: 14px;
   text-align: left;
 }
