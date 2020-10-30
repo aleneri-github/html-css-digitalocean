@@ -177,6 +177,7 @@ ul{
   color: #5C6A88;
   font-size: 20px;
   font-weight: 600;
+  padding-right: 10px;
   padding-bottom: 50px;
 }
 
@@ -190,7 +191,7 @@ ul{
 }
 
 .list_deploy li{
-  padding-bottom: 10px;
+  padding-bottom: 15px;
   font-size: 18px;
   font-weight: 700;
 }
@@ -212,7 +213,7 @@ ul{
 }
 
 .deploy_and_scale .section p{
-  font-size: 14px;
+  font-size: 15px;
   text-align: left;
 }
 
