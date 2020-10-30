@@ -12,6 +12,10 @@ h1{
   position: relative;
 }
 
+.td_none a:hover{
+  text-decoration: none;
+}
+
 .my_btn{
   background-color: white;
   color: #006AFF;
@@ -172,6 +176,15 @@ ul{
   color: #5C6A88;
   font-size: 20px;
   font-weight: 600;
+  padding-bottom: 50px;
+}
+
+
+.debug{
+  height: 300px;
+
+  background-color: green;
+  border: 1px solid black;
 }
 
 
@@ -233,6 +246,7 @@ ul{
     color: #2586FD;
     font-size: 20px;
 }
+
 
 }
 
