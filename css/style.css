@@ -8,6 +8,17 @@ h1{
   font-weight: 700;
 }
 
+h2{
+  color: #031C4E;
+  font-weight: 700;
+}
+
+
+
+
+
+
+
 .position_relative{
   position: relative;
 }
@@ -163,23 +174,20 @@ ul{
   padding-top: 40px;
   padding-left: 60px;
   padding-right: 60px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   background-color: #FFFFFF;
   text-align: center;
 }
 
-.deploy_and_scale h2{
-  color: #031C4E;
-  font-weight: 700;
-}
 
-.deploy_and_scale p{
+.important_paragraph{
   color: #5C6A88;
   font-size: 20px;
   font-weight: 600;
   padding-right: 10px;
   padding-bottom: 50px;
 }
+
 
 
 
@@ -216,6 +224,17 @@ ul{
   font-size: 15px;
   text-align: left;
 }
+
+.designed_for_developers{
+  height: 1000px;
+  text-align: center;
+  background-color: #F3F5F9;
+}
+
+
+
+
+
 
 
 
