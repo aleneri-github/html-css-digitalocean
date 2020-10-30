@@ -19,6 +19,9 @@ h2{
 
 
 
+
+
+
 .position_relative{
   position: relative;
 }
@@ -237,7 +240,7 @@ ul{
   margin-bottom: 25px;
 }
 
-#big-img{
+#big_img{
   max-width: 70%;
 }
 
@@ -256,8 +259,24 @@ ul{
   color: #031C4E;
   font-size: 15px;
   font-weight: 600;
-
 }
+
+.bottom{
+  display: inline-block;
+  margin: 50px 2px;
+  height: 12px;
+  width: 12px;
+  border-radius: 50px;
+  border: 1px solid #006AFF;
+  background-color: white;
+}
+.bottoms .bottom:first-child{
+background-color: #006AFF;
+}
+
+
+
+
 
 
 
