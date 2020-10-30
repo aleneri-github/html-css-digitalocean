@@ -234,12 +234,21 @@ ul{
 
 .img_container{
   width: 100%;
-
 }
 
 #big-img{
   max-width: 70%;
+}
 
+.chevron{
+  font-size: 50px;
+  margin: 0 30px;
+}
+.left{
+  color: #6F7B97;
+}
+.right{
+  color: #031C4E;
 }
 
 
