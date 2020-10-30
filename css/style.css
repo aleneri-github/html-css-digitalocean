@@ -234,6 +234,7 @@ ul{
 
 .img_container{
   width: 100%;
+  margin-bottom: 25px;
 }
 
 #big-img{
@@ -249,6 +250,13 @@ ul{
 }
 .right{
   color: #031C4E;
+}
+
+#text_img{
+  color: #031C4E;
+  font-size: 15px;
+  font-weight: 600;
+
 }
 
 
