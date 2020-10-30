@@ -200,11 +200,20 @@ ul{
   color: #75809A;
 }
 
-
 .deploy_and_scale img{
   display: block;
 }
 
+.deploy_and_scale h4{
+  color: #031C4E;
+  font-weight: 700;
+  text-align: left;
+}
+
+.deploy_and_scale p{
+  font-size: 14px;
+  text-align: left;
+}
 
 
 
