@@ -277,7 +277,7 @@ background-color: #006AFF;
   text-align: center;
   background-color: #FFFFFF;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 50px;
 }
 
 .features_business p{
@@ -297,6 +297,17 @@ background-color: #006AFF;
   color: #031C4E;
   font-weight: 700;
   text-align: left;
+}
+
+.around_the_world{
+  height: 1000px;
+  background-color: #0044C2;
+  text-align: center;
+}
+
+.around_the_world h2{
+  padding-top: 60px;
+  color: white;
 }
 
 
