@@ -188,6 +188,9 @@ ul{
   list-style: none;
   text-align: left;
 }
+.list_deploy:hover{
+  cursor: pointer;
+}
 
 .list_deploy li{
   padding-bottom: 15px;
@@ -237,6 +240,9 @@ ul{
   font-size: 50px;
   margin: 0 30px;
 }
+.chevron:hover{
+  cursor: pointer;
+}
 .left{
   color: #6F7B97;
 }
@@ -261,6 +267,9 @@ ul{
 }
 .bottoms .bottom:first-child{
 background-color: #006AFF;
+}
+.bottom:hover{
+  cursor: pointer;
 }
 
 .features_business{
