@@ -300,8 +300,11 @@ background-color: #006AFF;
 }
 
 .around_the_world{
-  height: 1000px;
-  background-color: #0044C2;
+  height: 100%;
+  padding-bottom: 60px;
+  background-color: #031B4E;
+  background-image: url('../img/bg-map.svg');
+  background-size: cover;
   text-align: center;
   color: white;
 }
@@ -312,9 +315,15 @@ background-color: #006AFF;
   padding-bottom: 30px;
 }
 
+.around_the_world a{
+  color: #1532FA;
+  font-weight: bold;
+}
+
 .border_bottom{
   border-bottom: 1px solid white;
   margin: 0;
+  padding-top: 15px;
 }
 
 
