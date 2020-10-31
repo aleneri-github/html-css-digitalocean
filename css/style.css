@@ -303,12 +303,21 @@ background-color: #006AFF;
   height: 1000px;
   background-color: #0044C2;
   text-align: center;
+  color: white;
 }
 
 .around_the_world h2{
   padding-top: 60px;
   color: white;
+  padding-bottom: 30px;
 }
+
+.border_bottom{
+  border-bottom: 1px solid white;
+  margin: 0;
+}
+
+
 
 
 
