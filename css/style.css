@@ -52,6 +52,12 @@ ul{
 }
 
 .header_top {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  background-color: white;
+  top: 0;
+  left: 0;
   height: 70px;
   padding: 0px 10px;
   line-height: 60px;
@@ -64,6 +70,7 @@ ul{
 }
 
 .header_bottom {
+  margin-top: 70px;
   height: 100%;
   background-image: url('https://www.digitalocean.com/static/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg');
   padding-top: 80px;
