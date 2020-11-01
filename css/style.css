@@ -372,7 +372,7 @@ background-color: #006AFF;
   margin: auto;
   width: 60%;
   height: 100%;
-  padding: 20px 20px 40px 20px;  
+  padding: 20px 20px 40px 20px;
   background-color: #FFFFFF;
 }
 #img_rockerbox img{
@@ -410,7 +410,22 @@ background-color: #006AFF;
 footer{
   background-color: #031C4E;
   height: 1000px;
+  padding: 30px 20px;
+  color: #8B94A9;
 }
+footer img{
+  padding-bottom: 20px;
+}
+footer li i{
+  font-size: 25px;
+  cursor: pointer;
+}
+footer li i:hover{
+  color: white;
+}
+
+
+
 
 
 
