@@ -409,13 +409,30 @@ background-color: #006AFF;
 
 footer{
   background-color: #031C4E;
-  height: 1000px;
+  height: 100%;
   padding: 30px 20px;
   color: #8B94A9;
 }
 footer img{
   padding-bottom: 20px;
 }
+
+footer ul li{
+  margin: 15px 0px;
+  font-size: 14PX;
+  font-weight: bold;
+  cursor: pointer;
+}
+footer ul li:hover{
+  color: white;
+}
+footer ul.ul_text li:first-child{
+  font-size: 18px;
+  font-weight: bold;
+  color: #FFFFFF;
+  cursor: auto;
+}
+
 footer li i{
   font-size: 25px;
   cursor: pointer;
